@@ -1,0 +1,411 @@
+{
+  "success": true,
+  "data": {
+    "cnpj": [
+      {
+        "cnpj": 37645657000116,
+        "cnpj_raiz": 37645657,
+        "filial_numero": 1,
+        "razao_social": "ST CONSULTORIA EM PROCESSOS INDUSTRIAIS - EIRELI",
+        "nome_fantasia": "ST CONSULTORIA",
+        "data_abertura": "2020-07-07T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "AV NAPOLEAO MANOSSO",
+        "numero": 525,
+        "bairro": "BUTIATUVINHA",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 37504337000146,
+        "cnpj_raiz": 37504337,
+        "filial_numero": 1,
+        "razao_social": "FELIZARI SOLUCOES DE ENGENHARIA LTDA",
+        "nome_fantasia": "FELIZARI SOLUCOES DE ENGENHARIA",
+        "data_abertura": "2020-06-23T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R LIMA BARRETO",
+        "numero": 705,
+        "bairro": "JARDIM DAS AMERICAS",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 11207707000190,
+        "cnpj_raiz": 11207707,
+        "filial_numero": 1,
+        "razao_social": "JBG ARQUITETURA LTDA",
+        "nome_fantasia": "JBG ARQUITETURA",
+        "data_abertura": "2009-09-15T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R GUILHERME IHLENFELDT",
+        "numero": 421,
+        "bairro": "BACACHERI",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 11155318000168,
+        "cnpj_raiz": 11155318,
+        "filial_numero": 1,
+        "razao_social": "FORTES GUEDES ENGENHARIA LTDA",
+        "nome_fantasia": "FORTES GUEDES ENGENHARIA",
+        "data_abertura": "2009-09-09T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "AV PRESIDENTE ARTHUR DA SILVA BERNARDES",
+        "numero": 1441,
+        "bairro": "PORTAO",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": "06129512000139",
+        "cnpj_raiz": "06129512",
+        "filial_numero": 1,
+        "razao_social": "MLM - ENGENHARIA CONSULTIVA LTDA",
+        "nome_fantasia": "",
+        "data_abertura": "2004-01-12T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R PROFESSOR JOSE NOGUEIRA DOS SANTOS",
+        "numero": 1037,
+        "bairro": "HAUER",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 18419863000163,
+        "cnpj_raiz": 18419863,
+        "filial_numero": 1,
+        "razao_social": "GUIANA ENGENHARIA S/S",
+        "nome_fantasia": "",
+        "data_abertura": "2013-06-05T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R CORONEL OTTONI MACIEL",
+        "numero": 89,
+        "bairro": "VILA IZABEL",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 29227145000101,
+        "cnpj_raiz": 29227145,
+        "filial_numero": 1,
+        "razao_social": "MARGARETH CAMERLENGO",
+        "nome_fantasia": "",
+        "data_abertura": "2017-11-28T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R CORONEL VIVIDA",
+        "numero": 233,
+        "bairro": "ALTO BOQUEIRAO",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 15621922000193,
+        "cnpj_raiz": 15621922,
+        "filial_numero": 1,
+        "razao_social": "TECNOPROCESS SIMULACAO E ROBOTICA LTDA",
+        "nome_fantasia": "TECNOPROCESS SIMULACAO E ROBOTICA LTDA",
+        "data_abertura": "2012-05-04T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "AV JACOB MACANHAN",
+        "numero": 647,
+        "bairro": "EMILIANO PERNETA",
+        "municipio": "PINHAIS",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": "05693927000178",
+        "cnpj_raiz": "05693927",
+        "filial_numero": 1,
+        "razao_social": "CHRISTOW ASSESSORIA LTDA",
+        "nome_fantasia": "CHRISTOW",
+        "data_abertura": "2003-06-12T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R CEL. ALIPIO DO NASCIMENTO",
+        "numero": 822,
+        "bairro": "CENTRO",
+        "municipio": "PALMEIRA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 34547965000110,
+        "cnpj_raiz": 34547965,
+        "filial_numero": 1,
+        "razao_social": "PILGRIMS CONSULTORIA EMPRESARIAL LTDA",
+        "nome_fantasia": "",
+        "data_abertura": "2019-08-15T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R MARECHAL HERMES",
+        "numero": 360,
+        "bairro": "ALTO DA GLORIA",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 23420996000190,
+        "cnpj_raiz": 23420996,
+        "filial_numero": 1,
+        "razao_social": "VORTSYS ENGENHARIA - EIRELI",
+        "nome_fantasia": "VORTSYS ENGENHARIA",
+        "data_abertura": "2015-09-09T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R PROFESSOR PEDRO VIRIATO PARIGOT DE SOUZA",
+        "numero": 4554,
+        "bairro": "CIDADE INDUSTRIAL",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 33454693000141,
+        "cnpj_raiz": 33454693,
+        "filial_numero": 1,
+        "razao_social": "VITESSE ASSESSORIA EMPRESARIAL EIRELI",
+        "nome_fantasia": "",
+        "data_abertura": "2019-04-25T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R BONA BUSNELLO",
+        "numero": 53,
+        "bairro": "JARDIM DAS AMERICAS",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 39970550000179,
+        "cnpj_raiz": 39970550,
+        "filial_numero": 1,
+        "razao_social": "PIER III PROJETOS DE ENGENHARIA E CONSULTORIA LTDA",
+        "nome_fantasia": "",
+        "data_abertura": "2020-12-01T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R MARTIM AFONSO",
+        "numero": 2986,
+        "bairro": "CAMPINA DO SIQUEIRA",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 35253773000164,
+        "cnpj_raiz": 35253773,
+        "filial_numero": 1,
+        "razao_social": "CONSORCIO ENGEMIN TRAMO",
+        "nome_fantasia": "",
+        "data_abertura": "2019-10-18T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R ROSA MACARINI",
+        "numero": 557,
+        "bairro": "EMILIANO PERNETA",
+        "municipio": "PINHAIS",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 39614076000142,
+        "cnpj_raiz": 39614076,
+        "filial_numero": 1,
+        "razao_social": "JESUS FABIANO DINIZ PEREIRA LTDA",
+        "nome_fantasia": "JESUS ENGENHARIA",
+        "data_abertura": "2020-10-29T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R ALFREDO PUJOL",
+        "numero": 1489,
+        "bairro": "SANTANA",
+        "municipio": "SAO PAULO",
+        "uf": "SP",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 37705971000147,
+        "cnpj_raiz": 37705971,
+        "filial_numero": 1,
+        "razao_social": "P. F. SANCHEZ ENGENHARIA LTDA",
+        "nome_fantasia": "GEOVENTUDE",
+        "data_abertura": "2020-07-13T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R PROFESSOR PEDRO VIRIATO PARIGOT DE SOUZA",
+        "numero": 4554,
+        "bairro": "CIDADE INDUSTRIAL",
+        "municipio": "CURITIBA",
+        "uf": "PR",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 37561208000190,
+        "cnpj_raiz": 37561208,
+        "filial_numero": 1,
+        "razao_social": "MATEUS LEMOS GURGEL DESENHOS TECNICOS LTDA",
+        "nome_fantasia": "EDIFICABIM ENGENHARIA",
+        "data_abertura": "2020-06-29T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R TIANGUA",
+        "numero": 13,
+        "bairro": "PARREAO",
+        "municipio": "FORTALEZA",
+        "uf": "CE",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 37580414000147,
+        "cnpj_raiz": 37580414,
+        "filial_numero": 1,
+        "razao_social": "CAIO J. N. ALVES INSTALACAO E MANUTENCAO ELETRICA LTDA",
+        "nome_fantasia": "CJN SERVICOS DE ENGENHARIA",
+        "data_abertura": "2020-07-01T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R CELESTINO GONCALVES BUENO",
+        "numero": 392,
+        "bairro": "VILA LONDRINA",
+        "municipio": "SAO PAULO",
+        "uf": "SP",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 41407036000171,
+        "cnpj_raiz": 41407036,
+        "filial_numero": 1,
+        "razao_social": "HERO AUTOMACAO INDUSTRIAL LTDA",
+        "nome_fantasia": "HERO INDUSTRIAL AUTOMATION",
+        "data_abertura": "2021-03-30T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "R AUGUSTO SEVERO",
+        "numero": 125,
+        "bairro": "SAO JOAO",
+        "municipio": "PORTO ALEGRE",
+        "uf": "RS",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      },
+      {
+        "cnpj": 41406010000109,
+        "cnpj_raiz": 41406010,
+        "filial_numero": 1,
+        "razao_social": "PARQUE EOLICO ROTA DO SOL LTDA",
+        "nome_fantasia": "",
+        "data_abertura": "2021-03-30T00:00:00Z",
+        "situacao_cadastral": "ATIVA",
+        "logradouro": "AV JULIO DE CASTILHOS",
+        "numero": 735,
+        "bairro": "CENTRO",
+        "municipio": "SAO FRANCISCO DE PAULA",
+        "uf": "RS",
+        "atividade_principal": {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        "cnpj_mei": false,
+        "versao": "v2"
+      }
+    ],
+    "count": 4910
+  },
+  "page": {
+    "current": 1
+  }
+}
